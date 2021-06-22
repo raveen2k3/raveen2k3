@@ -12,9 +12,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="raveen-2003 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="raveen-2003 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="raveen-2003 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="raveen-2003 | telegram" width="22px" src=https://img.icons8.com/doodle/48/000000/telegram-app.png" />][Telegram]
+
 
 <br />
 
@@ -24,3 +26,4 @@
 [twitter]: https://twitter.com/im_raveen
 [instagram]: https://instagram.com/_.raveen
 [youtube]: https://www.youtube.com/channel/UCXZv6LibWI5exXD6qxWuJyw
+[Telegram]: https://t.me/im_raveen
