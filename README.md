@@ -15,7 +15,7 @@
 [<img align="left" alt="raveen-2003 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="raveen-2003 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="raveen-2003 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="raveen-2003 | telegram" width="22px" src=https://img.icons8.com/doodle/48/000000/telegram-app.png" />][Telegram]
+[<img align="left" alt="raveen-2003 | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
 
 
 <br />
