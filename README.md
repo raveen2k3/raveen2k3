@@ -5,7 +5,7 @@
 
 - 🔭 17 years old kid !!
 - 🌱 I’m currently learning as much as i can 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with creators and learn from them
 - 🥅 2021 Goals: Develop more py tools & Telegram Bots
 - ⚡ Fun fact: I love to play badminton & and to  visit new places
 
