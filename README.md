@@ -24,6 +24,6 @@
 
 
 [twitter]: https://twitter.com/im_raveen
-[instagram]: https://instagram.com/_.raveen
+[instagram]: https://instagram.com/raveen2003_
 [youtube]: https://www.youtube.com/channel/UCXZv6LibWI5exXD6qxWuJyw
-[Telegram]: https://t.me/raveen_2003
+[Telegram]: https://t.me/raveen2003
