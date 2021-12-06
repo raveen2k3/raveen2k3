@@ -1,4 +1,4 @@
-### Hi there, I'm Raveen  👋
+# Hi there, I'm Raveen  👋
 
 
 ## I'm a Student, Learner, Developer, and Youtuber!!
@@ -9,6 +9,7 @@
 - 🥅 2021 Goals: Develop more py tools & Telegram Bots
 - ⚡ Fun fact: I love to play badminton & and to  visit new places
 
+---
 
 ### Connect with me:
 
@@ -17,13 +18,11 @@
 [<img align="left" alt="raveen-2003 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="raveen-2003 | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
 
-
-<br />
-
-
-
-
 [twitter]: https://twitter.com/im_raveen
 [instagram]: https://instagram.com/raveen2003_
 [youtube]: https://www.youtube.com/channel/UCXZv6LibWI5exXD6qxWuJyw
 [Telegram]: https://t.me/raveen2003
+
+</br>
+
+---
