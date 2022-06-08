@@ -19,7 +19,7 @@
 [<img align="left" alt="raveen-2003 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="raveen-2003 | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
 
-[twitter]: https://twitter.com/im_raveen
+[twitter]: https://twitter.com/raveen2k3
 [instagram]: https://instagram.com/raveen2k3
 [youtube]: https://www.youtube.com/channel/UCXZv6LibWI5exXD6qxWuJyw
 [Telegram]: https://t.me/its_raveen
