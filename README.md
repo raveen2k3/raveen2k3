@@ -4,7 +4,7 @@
 
 ## I'm a Student, Learner, Developer, and Youtuber!!
 
-- 🔭 18 years old kid !!
+- 🔭 19 years old kid !!
 - 🌱 I’m currently learning as much as i can 🤣
 - 👯 I’m looking to collaborate with creators and learn from them
 - 🥅 2021 Goals: Develop more py tools & Telegram Bots
